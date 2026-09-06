@@ -1,0 +1,8 @@
+```text
+streamlit
+streamlit-webrtc
+opencv-python-headless
+mediapipe
+groq
+av
+```
